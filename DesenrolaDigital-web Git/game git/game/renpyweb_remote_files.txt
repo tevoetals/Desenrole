@@ -1,0 +1,676 @@
+audio/1.ogg
+music -
+audio/2.ogg
+music -
+audio/3.ogg
+music -
+audio/4.ogg
+music -
+audio/achievement.ogg
+music -
+audio/blackend.ogg
+music -
+audio/blackscreen.ogg
+music -
+audio/canil.ogg
+music -
+audio/claps.ogg
+music -
+audio/correct.ogg
+music -
+audio/discusso.ogg
+music -
+audio/dog.ogg
+music -
+audio/elevator.ogg
+music -
+audio/end.ogg
+music -
+audio/flashes.ogg
+music -
+audio/gameover.ogg
+music -
+audio/greyend.ogg
+music -
+audio/guitar.ogg
+music -
+audio/hub.ogg
+music -
+audio/jump.ogg
+music -
+audio/lauracochicho.ogg
+music -
+audio/lumi.ogg
+music -
+audio/memorygame.ogg
+music -
+audio/menu.ogg
+music -
+audio/missaoconcluida.ogg
+music -
+audio/phone.ogg
+music -
+audio/prereuniao.ogg
+music -
+audio/protest.ogg
+music -
+audio/restaurante.ogg
+music -
+audio/sus.ogg
+music -
+audio/talk.ogg
+music -
+audio/typing.ogg
+music -
+audio/ui.ogg
+music -
+images/Fundos/BRComorgExterno.png
+image 2400,1350
+images/Fundos/BRComorgExternonoite.png
+image 2400,1350
+images/Fundos/BRComorgrefeitorio.png
+image 1920,1080
+images/Fundos/BRComorgroffice cabo.png
+image 1920,1080
+images/Fundos/New Project.png
+image 1018,567
+images/Fundos/cabosalo.png
+image 1920,1080
+images/Fundos/canilnomeado.png
+image 1920,1080
+images/Fundos/canilnomear.png
+image 1920,1080
+images/Fundos/ceuazul.png
+image 2160,1215
+images/Fundos/computadormexendo.png
+image 1920,1080
+images/Fundos/diretorceriocena3.png
+image 2160,1215
+images/Fundos/diretorceriocena3tranquilo.png
+image 2160,1215
+images/Fundos/diretoriabastos.png
+image 1536,1024
+images/Fundos/elevadorexterno.png
+image 2400,1350
+images/Fundos/elevadorinterno.png
+image 2400,1350
+images/Fundos/officeinterditado.png
+image 2400,1350
+images/Fundos/ongpatinhas_corredor.png
+image 1920,1080
+images/Fundos/ongpatinhas_externo.png
+image 1920,1080
+images/Fundos/ongpatinhas_recepcao.png
+image 1920,1080
+images/Fundos/ongpatinhas_saladereuniao com gi.png
+image 1920,1080
+images/Fundos/ongpatinhas_saladereuniao com laura e max e gi e doug.png
+image 1920,1080
+images/Fundos/ongpatinhas_saladereuniao com laura e max e gi.png
+image 1920,1080
+images/Fundos/ongpatinhas_saladereuniao com laura e max.png
+image 1920,1080
+images/Fundos/ongpatinhas_saladereuniao com laura.png
+image 1920,1080
+images/Fundos/ongpatinhas_saladereuniao mesa habla.png
+image 1920,1080
+images/Fundos/ongpatinhas_saladereuniao zoom bg.png
+image 1920,1080
+images/Fundos/ongpatinhas_saladereuniao.png
+image 1920,1080
+images/Fundos/ongpatinhas_saladereuniao2.png
+image 1920,1080
+images/Fundos/ongpatinhas_saladereuniao3.png
+image 1920,1080
+images/Fundos/ongpatinhas_saladereuniao4.png
+image 1920,1080
+images/Fundos/ongpatinhas_saladereuniao5.png
+image 1920,1080
+images/Fundos/patinhasgi.png
+image 1920,1080
+images/Fundos/pdfgitutorial.png
+image 1920,1080
+images/Fundos/recepcaosegundoandar.png
+image 2400,1350
+images/Fundos/saladiretor2.png
+image 1536,1024
+images/Fundos/saladodiretor.png
+image 2400,1350
+images/Fundos/solucaomax.png
+image 1920,1080
+images/Fundos/voluntarios.png
+image 1920,1080
+images/Misc/DesenrolaLogoDigital.png
+image 794,216
+images/Misc/Frame 2.png
+image 590,1000
+images/Misc/Frame 3.png
+image 590,1000
+images/Misc/Mission Menu locations.png
+image 1920,1080
+images/Misc/Mission Menu unlocked.png
+image 1920,1080
+images/Misc/Ong Patinhas logo.png
+image 3120,1755
+images/Misc/cadeado aberto.png
+image 233,264
+images/Misc/cadeado.png
+image 137,201
+images/Misc/d.png
+image 1920,1080
+images/Misc/effect.png
+image 1536,1024
+images/Misc/locked black highlight.png
+image 590,1000
+images/Misc/locked black.png
+image 590,1000
+images/Misc/ongpatinhas_recepcao_mesa.png
+image 1920,1080
+images/Misc/ongpatinhas_saladereuniao mesa habla2.png
+image 1920,1080
+images/Misc/ongpatinhas_saladereuniao zoom transparente.png
+image 1920,1080
+images/Misc/ongpatinhas_saladereuniao_layer1.png
+image 1920,1080
+images/Misc/ongpatinhas_saladereuniao_layer2.png
+image 1920,1080
+images/Misc/ongpatinhas_saladereuniao_layer3.png
+image 1920,1080
+images/Misc/recepcaosegundoandarmesa.png
+image 2400,1350
+images/Personagens/Lise Brava.png
+image 1350,2400
+images/Personagens/Lise Feliz.png
+image 1350,2400
+images/Personagens/Lize triste.png
+image 1350,2400
+images/Personagens/ORG2.png
+image 1755,3120
+images/Personagens/ORG3 brava.png
+image 1350,2400
+images/Personagens/ORG3 felix.png
+image 1215,2160
+images/Personagens/ORG3.png
+image 1755,3120
+images/Personagens/ORG4.png
+image 1755,3120
+images/Personagens/Paulo default hablando.png
+image 1485,2640
+images/Personagens/Paulo default.png
+image 1485,2640
+images/Personagens/Paulo triste.png
+image 1024,1536
+images/Personagens/almeidasus.png
+image 1215,2160
+images/Personagens/almeidawelcome.png
+image 1215,2160
+images/Personagens/bastos talk.png
+image 1215,2160
+images/Personagens/bastoss.png
+image 1080,1920
+images/Personagens/delegadoserio.png
+image 1620,2880
+images/Personagens/delegadosorrindo.png
+image 1485,2640
+images/Personagens/diretorsorrindo.png
+image 1620,2880
+images/Personagens/doug espantado.png
+image 1080,1920
+images/Personagens/doug raiva.png
+image 1215,2160
+images/Personagens/doug sorrindo.png
+image 1350,2400
+images/Personagens/doug triste.png
+image 1350,2400
+images/Personagens/gi brava.png
+image 1350,2400
+images/Personagens/gi falando.png
+image 1350,2400
+images/Personagens/gio espantada.png
+image 1080,1920
+images/Personagens/laura brava.png
+image 1350,2400
+images/Personagens/laura cochichando.png
+image 1920,1080
+images/Personagens/laura espantada.png
+image 1080,1920
+images/Personagens/laura feliz.png
+image 1350,2400
+images/Personagens/laura triste.png
+image 1350,2400
+images/Personagens/lauracomcafe.png
+image 1620,2880
+images/Personagens/lauracontraposto.png
+image 1485,2640
+images/Personagens/lauraparadacentro.png
+image 1620,2880
+images/Personagens/laurasegurandocafebebendocafe.png
+image 1620,2880
+images/Personagens/laurasemcafeelevador.png
+image 1620,2880
+images/Personagens/lise.png
+image 1350,2400
+images/Personagens/max espantado.png
+image 1080,1920
+images/Personagens/max feliz.png
+image 1350,2400
+images/Personagens/max raiva.png
+image 1350,2400
+images/Personagens/max triste.png
+image 1350,2400
+images/Personagens/patinhas voluntario eh.png
+image 1485,2640
+images/Personagens/patinhas voluntario puto.png
+image 1485,2640
+images/Personagens/patinhas voluntario.png
+image 1485,2640
+images/Personagens/perito pc.png
+image 1620,2880
+images/Personagens/perito serio.png
+image 1620,2880
+images/Personagens/recepcionista espantada.png
+image 1620,2880
+images/Personagens/recepcionista feliz.png
+image 1620,2880
+images/Personagens/recepcionistacontraposto.png
+image 1485,2640
+images/cards/card-back.png
+image 316,204
+images/cards/prob01.png
+image 315,204
+images/cards/prob01h.png
+image 315,204
+images/cards/prob02.png
+image 315,204
+images/cards/prob02h.png
+image 315,204
+images/cards/prob03.png
+image 315,204
+images/cards/prob03h.png
+image 315,204
+images/cards/prob04.png
+image 315,204
+images/cards/prob04h.png
+image 315,204
+images/cards/prob05.png
+image 315,204
+images/cards/prob05h.png
+image 315,204
+images/cards/prob06.png
+image 315,204
+images/cards/prob06h.png
+image 315,204
+images/cards/sol01.png
+image 315,204
+images/cards/sol01h.png
+image 315,204
+images/cards/sol02.png
+image 315,204
+images/cards/sol02h.png
+image 315,204
+images/cards/sol03.png
+image 315,204
+images/cards/sol03h.png
+image 315,204
+images/cards/sol04.png
+image 315,204
+images/cards/sol04h.png
+image 315,204
+images/cards/sol05.png
+image 315,204
+images/cards/sol05h.png
+image 315,204
+images/cards/sol06.png
+image 315,204
+images/cards/sol06h.png
+image 315,204
+images/cards/zoom mesa game tutorial.png
+image 1280,720
+images/cards/zoom mesa game.png
+image 1280,720
+images/lumi/10.png
+image 1920,1080
+images/lumi/11.png
+image 1920,1080
+images/lumi/12.png
+image 1920,1080
+images/lumi/8.png
+image 1920,1080
+images/lumi/9.png
+image 1920,1080
+images/lumi/Anvisa resposta.png
+image 1920,1080
+images/lumi/adv1.png
+image 1620,2880
+images/lumi/adv2.png
+image 1620,2880
+images/lumi/auditoriofinal.png
+image 1920,1080
+images/lumi/bg doctor1.png
+image 1920,1080
+images/lumi/cabo salo.png
+image 1536,1024
+images/lumi/cadeira reuniao 2.png
+image 1920,1080
+images/lumi/cadeira reuniao frente 1.png
+image 1920,1080
+images/lumi/cadeira reuniao frente 2.png
+image 1920,1080
+images/lumi/cadeira reuniao.png
+image 1920,1080
+images/lumi/cafeinternolumi.png
+image 1920,1080
+images/lumi/cafeinternolumi_mesa.png
+image 1920,1080
+images/lumi/call_invest.png
+image 1536,1024
+images/lumi/cards/mesa.png
+image 1920,1080
+images/lumi/cards/prob01.png
+image 315,204
+images/lumi/cards/prob01h.png
+image 315,204
+images/lumi/cards/prob02.png
+image 315,204
+images/lumi/cards/prob02h.png
+image 315,204
+images/lumi/cards/prob03.png
+image 315,204
+images/lumi/cards/prob03h.png
+image 315,204
+images/lumi/cards/prob04.png
+image 315,204
+images/lumi/cards/prob04h.png
+image 315,204
+images/lumi/cards/prob05.png
+image 315,204
+images/lumi/cards/prob05h.png
+image 315,204
+images/lumi/cards/prob06.png
+image 315,204
+images/lumi/cards/prob06h.png
+image 315,204
+images/lumi/cards/sol01.png
+image 315,204
+images/lumi/cards/sol01h.png
+image 315,204
+images/lumi/cards/sol02.png
+image 315,204
+images/lumi/cards/sol02h.png
+image 315,204
+images/lumi/cards/sol03.png
+image 315,204
+images/lumi/cards/sol03h.png
+image 315,204
+images/lumi/cards/sol04.png
+image 315,204
+images/lumi/cards/sol04h.png
+image 315,204
+images/lumi/cards/sol05.png
+image 315,204
+images/lumi/cards/sol05h.png
+image 315,204
+images/lumi/cards/sol06.png
+image 315,204
+images/lumi/cards/sol06h.png
+image 336,239
+images/lumi/coletiva imprensa.png
+image 1920,1080
+images/lumi/coletiva imprensa2.png
+image 1920,1080
+images/lumi/datashow1.png
+image 1920,1080
+images/lumi/datashow2.png
+image 1920,1080
+images/lumi/flash copy.png
+image 1024,838
+images/lumi/flash.png
+image 1024,838
+images/lumi/flashed.png
+image 1920,1080
+images/lumi/fundo call.png
+image 1920,1080
+images/lumi/gio triste.png
+image 1080,1920
+images/lumi/hub externo.png
+image 1920,1080
+images/lumi/hub interno.png
+image 1920,1080
+images/lumi/internolumiofficevazio.png
+image 1920,1080
+images/lumi/invest1.png
+image 1350,2400
+images/lumi/invest11.png
+image 1215,2160
+images/lumi/invest12.png
+image 1215,2160
+images/lumi/lab lumi.png
+image 1920,1080
+images/lumi/laura sentada invisível.png
+image 1215,2160
+images/lumi/lceo se apresentando.png
+image 1620,2880
+images/lumi/lceo sentado triste.png
+image 1620,2880
+images/lumi/lceo sentado.png
+image 1620,2880
+images/lumi/lceo triste.png
+image 1620,2880
+images/lumi/lceo.png
+image 1620,2880
+images/lumi/lceofeliz.png
+image 1080,1920
+images/lumi/lumi_externo.png
+image 2880,1620
+images/lumi/lumi_noite.png
+image 1920,1080
+images/lumi/medica1.png
+image 1080,1685
+images/lumi/medico1.png
+image 1080,1920
+images/lumi/minigame/1.png
+image 281,42
+images/lumi/minigame/2.png
+image 642,118
+images/lumi/minigame/3.png
+image 647,78
+images/lumi/minigame/4.png
+image 637,150
+images/lumi/minigame/5.png
+image 658,114
+images/lumi/minigame/6.png
+image 629,150
+images/lumi/minigame/7.png
+image 621,114
+images/lumi/minigame/folha.png
+image 1920,1080
+images/lumi/minigame/folhacheia.png
+image 1920,1080
+images/lumi/minigame/folhastetic.png
+image 1920,1080
+images/lumi/officecheio.png
+image 1920,1080
+images/lumi/presencataograph.png
+image 1920,1080
+images/lumi/presencataograph2.png
+image 1920,1080
+images/lumi/ramirez1.png
+image 1080,1920
+images/lumi/ramirez2.png
+image 1080,1920
+images/lumi/remedio.png
+image 1920,1080
+images/lumi/reuniaolumi.png
+image 1920,1080
+images/lumi/reuniaonoite.png
+image 1920,1080
+images/lumi/saladiretorlumidia.png
+image 1920,1080
+images/lumi/saladiretorlumidiabg.png
+image 1920,1080
+images/lumi/saladiretorluminoite.png
+image 1920,1080
+images/lumi/salareuniaolumi.png
+image 1920,1080
+images/lumi/scene medicos.png
+image 1920,1080
+images/lumi/scene relatorio.png
+image 1920,1080
+images/montar interface/1calendariogrande.png
+image 340,413
+images/montar interface/1filtragemgrande.png
+image 735,134
+images/montar interface/1opcoesgrande.png
+image 371,172
+images/montar interface/1planilhagrande.png
+image 708,437
+images/montar interface/1titulogrande.png
+image 1105,105
+images/montar interface/interface.png
+image 1937,1090
+images/montar interface/montarinterface.png
+image 1280,720
+images/solemar/Universidade Solemar Externo.png
+image 1920,1080
+images/solemar/adv celular.png
+image 1920,1080
+images/solemar/aeroporto.png
+image 1920,1080
+images/solemar/aud2.png
+image 1920,1080
+images/solemar/aud3.png
+image 1920,1080
+images/solemar/auditorio.png
+image 1920,1080
+images/solemar/balao.png
+image 786,816
+images/solemar/bastosaterrorizado.png
+image 1080,1920
+images/solemar/bastoscelular.png
+image 1920,1080
+images/solemar/bastospego.png
+image 1920,1080
+images/solemar/bastospreso.png
+image 1920,1080
+images/solemar/caio 1.png
+image 1080,1920
+images/solemar/caio 2bravo.png
+image 1080,1920
+images/solemar/campusnoite.png
+image 1920,1080
+images/solemar/cards/prob01.png
+image 315,204
+images/solemar/cards/prob01h.png
+image 315,204
+images/solemar/cards/prob02.png
+image 315,204
+images/solemar/cards/prob02h.png
+image 315,204
+images/solemar/cards/prob03.png
+image 315,204
+images/solemar/cards/prob03h.png
+image 315,204
+images/solemar/cards/prob04.png
+image 315,204
+images/solemar/cards/prob04h.png
+image 315,204
+images/solemar/cards/prob06.png
+image 315,204
+images/solemar/cards/prob06h.png
+image 315,204
+images/solemar/cards/sol01.png
+image 315,204
+images/solemar/cards/sol01h.png
+image 315,204
+images/solemar/cards/sol02.png
+image 315,204
+images/solemar/cards/sol02h.png
+image 315,204
+images/solemar/cards/sol03.png
+image 315,204
+images/solemar/cards/sol03h.png
+image 315,204
+images/solemar/cards/sol04.png
+image 315,204
+images/solemar/cards/sol04h.png
+image 315,204
+images/solemar/cards/sol06.png
+image 315,204
+images/solemar/cards/sol06h.png
+image 315,204
+images/solemar/clap.png
+image 1920,1080
+images/solemar/delegacia.png
+image 1920,1080
+images/solemar/entrance.png
+image 1920,1080
+images/solemar/indicadores.png
+image 1920,1080
+images/solemar/informatica.png
+image 1920,1080
+images/solemar/instavel.png
+image 1920,1080
+images/solemar/jornal.png
+image 1920,1080
+images/solemar/layout.png
+image 1920,1080
+images/solemar/levesorrizo.png
+image 1080,1920
+images/solemar/manifestacao.png
+image 1920,1080
+images/solemar/minigame/1.png
+image 307,711
+images/solemar/minigame/2.png
+image 1028,118
+images/solemar/minigame/3.png
+image 721,690
+images/solemar/minigame/pc made.png
+image 1920,1080
+images/solemar/minigame/pc.png
+image 1920,1080
+images/solemar/novosistema.png
+image 1920,1080
+images/solemar/pendrive.png
+image 1920,1080
+images/solemar/policia.png
+image 1920,1080
+images/solemar/policias.png
+image 1920,1080
+images/solemar/policias2.png
+image 1920,1080
+images/solemar/policias3.png
+image 1920,1080
+images/solemar/postits.png
+image 1920,1080
+images/solemar/prisao1.png
+image 1920,1080
+images/solemar/prisao2.png
+image 1920,1080
+images/solemar/prof1.1.png
+image 1080,1920
+images/solemar/prof1.png
+image 1080,1920
+images/solemar/quadro.png
+image 1920,1080
+images/solemar/rep1.png
+image 1080,1920
+images/solemar/rep2.png
+image 1080,1920
+images/solemar/reporter.png
+image 1920,1080
+images/solemar/reuniaoadv.png
+image 1920,1080
+images/solemar/salaaula.png
+image 1920,1080
+images/solemar/salaquadro.png
+image 1920,1080
+images/solemar/salaquadro2.png
+image 1920,1080
+images/solemar/salaquadro3.png
+image 1920,1080
+images/solemar/simnao.png
+image 1920,1080
+images/solemar/ti.png
+image 1080,1920
+images/solemar/vidrado.png
+image 1920,1080
